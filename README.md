@@ -24,3 +24,17 @@ conda install -n finetune_llama_unsloth ipykernel --update-deps --force-reinstal
 ```
 
 ---
+
+## YT RECORDINGS
+
+[![Llama3 Finetuning](https://img.youtube.com/vi/TNbjwiXbiTI/0.jpg)](https://youtu.be/TNbjwiXbiTI)
+
+---
+
+## HF MODELS
+
+- https://huggingface.co/arjuntheprogrammer/llama3-8b-oig-unsloth
+- https://huggingface.co/arjuntheprogrammer/llama3-8b-oig-unsloth-merged
+
+---
+
